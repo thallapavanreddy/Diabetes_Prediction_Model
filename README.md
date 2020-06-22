@@ -35,9 +35,6 @@ By default, flask will run on port 5000.
 
 3. Navigate to URL http://localhost:5000
 
-You should be able to view the homepage as below :
-![alt text](https://drive.google.com/file/d/1u0QOSknkuL4rLSKSoShh3d48tmvzoNIj/view?usp=sharing)
-
 Enter valid numerical values in all input boxes and hit Predict.
 
-If everything goes well, you should  be able to see the predcited salary vaule on the HTML page!
+Finally you will get the preditions
