@@ -4,15 +4,15 @@ This is a project to deploye Prediction Model on production using Flask API
 ### Prerequisites
 In Working environment must have Scikit Learn, Pandas and Flask installed.
 
-'''
+```
 pip install requirments.txt
-'''
+```
 
 
 To Check libraies once 
-'''
+```
 pip list
-'''
+```
 
 ### Project Structure
 This project has four major parts :
@@ -36,7 +36,7 @@ By default, flask will run on port 5000.
 3. Navigate to URL http://localhost:5000
 
 You should be able to view the homepage as below :
-![alt text](http://www.thepythonblog.com/wp-content/uploads/2019/02/Homepage.png)
+![alt text](https://drive.google.com/file/d/1u0QOSknkuL4rLSKSoShh3d48tmvzoNIj/view?usp=sharing)
 
 Enter valid numerical values in all input boxes and hit Predict.
 
